@@ -10,6 +10,9 @@ This is under development, experimental and not yet ready for general availabili
 
 To use this authentication module with Ambassador you need to configure Ambassador to be aware of it. The easiest way to do that is to attach it to the annotations on the Kubernetes service that acts as the entrypoint to Ambassador, for example:
 
+# More information to get installed
+More infromation on how this plugin can be found [here](https://www.getambassador.io/user-guide/auth-tutorial).
+
 # License
 
 Licensed under Apache 2.0. Please read [LICENSE](LICENSE) for details.
